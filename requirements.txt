@@ -1,4 +1,4 @@
-# Use Python 3.11 (validated with Python 3.11.13).
+# Use Python 3.11 or 3.12 (Assignment 3 verified with Python 3.12.14).
 # Numerical dependencies match the verified bond-assignment environment.
 numpy==1.26.4
 pandas==2.3.1
